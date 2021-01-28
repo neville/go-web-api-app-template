@@ -1,1 +1,1 @@
-# go-web-app-template
+# go-web-api-app-template
